@@ -6,5 +6,5 @@
 
 ---
 
-📱 Oharra: telefonoetan PDF-ak ez du beti oharren esteka zehatzak erakusten.  
+📱 Oharra: Android telefonoetan PDF-ak ez du beti oharren esteka zehatzak erakusten.  
 Firefox edo Adobe Acrobat Reader erabiliz, lotura guztiak ondo ibiliko dira.
